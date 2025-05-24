@@ -1,14 +1,17 @@
-# Python Basics
+# Python
 
-Welcome to the **Python Basics** repository! 🎉
+Welcome to the **Python** repository! 🎉
 
-This repository is dedicated to exploring and learning the fundamental concepts of Python programming. Whether you're a complete beginner or just brushing up on your skills, this is the perfect place to start your Python journey.
+This repository is dedicated to exploring and learning the fundamental and advanced concepts of Python programming. Whether you're a complete beginner or just brushing up on your skills, this is the perfect place to start your Python journey.
 
 ---
 
 ## What You'll Learn
 
-We will cover the essential building blocks of Python, including but not limited to:
+We will cover the essential building blocks of Python in two different notebooks i.e., Python_Basics and Python_Advance:
+
+### Python_Basics 
+[currently working on this]
 
 - Print Statment
 - Comments  
@@ -18,6 +21,10 @@ We will cover the essential building blocks of Python, including but not limited
 - Type Conversion
 - Memory Block
 - Operators
+
+### Python_Advance
+
+[Will be updating it very soon]
 
 ---
 
